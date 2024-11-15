@@ -2,9 +2,9 @@
     "Use_Proxy": "y",
     "Threads": 20,
 
-    "Username": "",
-    "Email_Names": "",
-    "Password": "",
+    "Username": "skibidi_sigma",
+    "Email_Names": "skibidi.sigma@gmail.com",
+    "Password": "SkibidiDopDop",
 
     "discordInteraction": false,
     "discordWebhook": ""
